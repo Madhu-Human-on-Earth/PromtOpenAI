@@ -6,7 +6,6 @@
 
 # The Chat Format
 
-In this notebook, you will explore how you can utilize the chat format to have extended conversations with chatbots personalized or specialized for specific tasks or behaviors.
 
 ## Setup
 
@@ -66,7 +65,7 @@ response = get_completion_from_messages(messages, temperature=1)
 print(response)
 
 # OrderBot
-We can automate the collection of user prompts and assistant responses to build a  OrderBot. The OrderBot will take orders at a pizza restaurant. 
+#We can automate the collection of user prompts and assistant responses to build a  OrderBot. The OrderBot will take orders at a pizza restaurant. 
 
 def collect_messages(_):
     prompt = inp.value_input
