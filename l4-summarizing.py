@@ -2,7 +2,6 @@
 # coding: utf-8
 
 # # Summarizing
-# In this lesson, you will summarize text with a focus on specific topics.
 # 
 # ## Setup
 
@@ -231,7 +230,7 @@ for i in range(len(reviews)):
     print(i, response, "\n")
 
 
-# ## Try experimenting on your own!
+# ## 
 
 # In[ ]:
 
